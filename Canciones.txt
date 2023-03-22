@@ -1,0 +1,14 @@
+1;reggaedrum;1;1;1;1
+2;shakira 1;1;1;1;1
+3;shakira 2;1;1;1;1
+4;maluma borro cassette;1;1;1;1
+5;pelicula;1;1;1;1
+6;maluma borro cassette;1;1;1;2
+123;Milan milan;1824;3789;109;10962
+456;Traviata;620193;1234;621;3920
+328;Tirolesa;6201;123409;62109;3920
+198756;Sous le ciel;620193;1234;62109;3920
+678;Dilemme;620193;1234;62109;392
+123;prueba;620193;1234;62109;3920
+1230;prueba;620193;1;62109;3920
+123;Milan milan;62;1234;62109;3920
